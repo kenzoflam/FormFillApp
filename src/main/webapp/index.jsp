@@ -201,7 +201,7 @@
       <div class="hero-content">
         <span class="eyebrow">★ INSERT COIN TO BEGIN ★</span>
         <h1 id="hero-title">PIXEL <span class="pixel">QUEST</span></h1>
-        <p class="lead">A tiny retro adventure packed with golden coins, mystery blocks, and big 8-bit energy. Your next great quest starts here!</p>
+        <p class="lead">Hello from Radical Tech !!!</p>
         <div class="buttons">
           <a class="btn" href="#play">▶ PLAY THE DEMO</a>
           <a class="btn secondary" href="#features">EXPLORE WORLD ↓</a>
