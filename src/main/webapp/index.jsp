@@ -243,7 +243,7 @@
   </main>
 
   <footer>
-    <strong>PIXEL QUEST</strong> · A little tribute to classic 8-bit platform adventures.<br>
+    <strong>Hello Harshal </strong> · A little tribute to classic 8-bit platform adventures.<br>
     Original fan-inspired demo concept; not affiliated with Nintendo or any existing game franchise.
   </footer>
 
