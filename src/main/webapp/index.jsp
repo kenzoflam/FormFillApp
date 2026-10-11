@@ -183,7 +183,7 @@
 </head>
 <body>
   <header class="topbar">
-    <div class="brand">PIXEL<span>QUEST</span> ★</div>
+    <div class="brand">Hello Harshal<span>QUEST</span> ★</div>
     <nav class="nav" aria-label="Main navigation">
       <a href="#features">THE WORLD</a>
       <a href="#play">PLAY DEMO</a>
