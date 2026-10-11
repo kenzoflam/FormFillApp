@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pixel Quest — Retro Platform Adventure</title>
+  <title>Hello Harshal - How are you feeling today ? </title>
   <style>
     :root {
       --sky: #65d8ff;
@@ -300,4 +300,3 @@
   </script>
 </body>
 </html>
-
